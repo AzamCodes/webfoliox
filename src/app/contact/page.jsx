@@ -1,8 +1,8 @@
 import React from "react";
 import PageIntro from "../components/PageIntro";
 import ContactDetails from "../components/ContactDetails";
-import ContactForm from "../components/Contactform";
 import Container from "../components/Container";
+import ContactForm from "../components/ContactForm";
 
 const ContactPage = () => {
   return (
