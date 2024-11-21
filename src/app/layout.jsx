@@ -5,8 +5,8 @@ import RootLayout from "./components/RootLayout";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio Website",
-  description: "Personal Portfolio Website",
+  title: "WebfolioX",
+  description: "Web development Agency.",
   icons: {
     icon: "/favicon.ico", // Reference to your favicon
   },
