@@ -261,9 +261,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+- **Email**: [azamcodes@example.com](mailto:azamcodes@example.com)
+- **LinkedIn**: [AzamDev](https://linkedin.com/in/azamdev)
+- **Twitter**: [@AzamCodes]([https://twitter.com/YourHandle](https://twitter.com/AzamCodes))
 
 Feel free to star the repo if you find it helpful! ⭐
 
