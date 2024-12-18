@@ -190,7 +190,7 @@ Here is the structure of the WebfolioX project:
 
 ---
 
-## 🌈 Technology Stack
+## 👩‍💻 Technology Stack
 
 - **Framework**: [Next.js 13](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
