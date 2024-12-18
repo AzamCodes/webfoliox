@@ -6,6 +6,7 @@ import {
   BsGithub,
   BsYoutube,
   BsLinkedin,
+  BsInstagram,
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
@@ -14,15 +15,20 @@ export const SocialMediaProfiles = [
     href: "https://www.youtube.com/",
     icon: BsYoutube,
   },
-  { title: "GitHub", href: "https://github.com/noorjsdivs/", icon: BsGithub },
+  { title: "GitHub", href: "https://github.com/azamcodes/", icon: BsGithub },
   {
     title: "Facebook",
-    href: "https://www.facebook.com/Noorlalu143/",
+    href: "https://www.facebook.com/",
     icon: BsFacebook,
   },
   {
     title: "Instagram",
-    href: "https://www.linkedin.com/in/noor-mohammad-ab2245193/",
+    href: "https://www.instagram.com/_azam.shaikh_",
+    icon: BsInstagram,
+  },
+  {
+    title: "LinkedIn",
+    href: "https://www.linkedin.com/in/azamdev",
     icon: BsLinkedin,
   },
   { title: "Twitter", href: "https://twitter.com", icon: BsTwitter },
